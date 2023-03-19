@@ -1,0 +1,15 @@
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.exe
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.deps.json
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.runtimeconfig.json
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.dll
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\bin\Debug\net6.0\TiposDatos.pdb
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.AssemblyInfo.cs
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.dll
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\refint\TiposDatos.dll
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.pdb
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\TiposDatos.genruntimeconfig.cache
+C:\Users\isabe\source\repos\TiposDatos\TiposDatos\obj\Debug\net6.0\ref\TiposDatos.dll

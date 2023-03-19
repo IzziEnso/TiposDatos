@@ -1,0 +1,15 @@
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\bin\Debug\net6.0\FuncionesBasicas.exe
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\bin\Debug\net6.0\FuncionesBasicas.deps.json
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\bin\Debug\net6.0\FuncionesBasicas.runtimeconfig.json
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\bin\Debug\net6.0\FuncionesBasicas.dll
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\bin\Debug\net6.0\FuncionesBasicas.pdb
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\FuncionesBasicas.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\FuncionesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\FuncionesBasicas.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\FuncionesBasicas.AssemblyInfo.cs
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\FuncionesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\FuncionesBasicas.dll
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\refint\FuncionesBasicas.dll
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\FuncionesBasicas.pdb
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\FuncionesBasicas.genruntimeconfig.cache
+C:\Users\isabe\source\repos\FuncionesBasicas\FuncionesBasicas\obj\Debug\net6.0\ref\FuncionesBasicas.dll
